@@ -6,7 +6,7 @@ Because back in the day, a team of engineers found a literal, fuzzy monster caus
 
 ## The day the world stopped
   Let’s go back to September 1947. Meet **Grace Hopper**, a legendary computer pioneer who was working on a computer called 
-the Harvard Mark II. Now, this thing wasn't sleek like your laptop it was a massive, bedroom-sized beast full of hot glass 
+the Harvard Mark II. Now, this thing wasn't sleek like your laptop it was a massive, bedroom sized beast full of hot glass 
 tubes and thousands of clicking mechanical switches. Suddenly, this multimillion dollar machine just dies. 
 No warning, no error message, just total silence. The engineers spent hours opening up the giant metal cabinets, 
 poking around the wires. Finally, stuck deep inside one of the electrical switches, they found the culprit:
@@ -22,7 +22,7 @@ but also phenomenally stupid. They do exactly what you tell them to do, even if 
 > kitchen, grab the peanut butter jar, and spread two tablespoons of peanut butter onto the bread. To a human, this makes total sense.
 But you forgot one tiny, microscopic detail: **you didn't tell the robot to unscrew the lid.**
 Because the robot doesn't have common sense, it takes the closed jar and violently smashes the glass lid directly into
-> the bread, destroying your  kitchen counter and freezing up completely. **Boom. You just coded a bug.**
+> the bread, destroying your  kitchen counter and freezing up completely. **Boom!!! You just coded a bug.**
 > 
 In real life, that’s exactly why your favorite apps crash. A programmer forgets to tell the app a tiny step like
 what to do if your Wi-Fi drops for a split second and the app panics, gives up, and snaps shut.
