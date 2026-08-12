@@ -1,4 +1,4 @@
-## Why we blame glitches on bugs
+## Why we blame glitches on bugs???
  Think about how many times a day an app freezes, snaps shut, or completely loses its mind. You roll your eyes,
 complain about a bug, and restart your phone. But have you ever actually stopped to think about how weird that word is? 
 Why do we blame a tiny, six legged creepy crawly when a billion dollar piece of modern software breaks?
