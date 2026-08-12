@@ -1,4 +1,7 @@
-# Portfolio
--Independent programming projects and source code archives.
--High School project Archives.
--making codding fun 
+# Halooooo👋
+Infos abt this profile😌......
+
+Independent programming projects and source code archives.
+
+I also write fun tech stories to make coding exciting.
+**[Check it out here!](Fun_zone/Tech_tales.md)**
